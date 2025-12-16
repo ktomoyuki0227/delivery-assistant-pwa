@@ -21,6 +21,14 @@
 - ✅ 住所入力ミスによる誤配達を80%削減
 - 😊 スムーズな配達開始で顧客満足度向上
 
+### 🌐 デモ
+
+**本番環境(HTTPS対応):**
+https://delivery-assistant-e3noir34z-my-todo-apps-projects.vercel.app
+
+**GitHubリポジトリ:**
+https://github.com/ktomoyuki0227/delivery-assistant-pwa
+
 ---
 
 ## 🚀 クイックスタート
@@ -309,10 +317,12 @@ https://your-app.vercel.app
 ## 📝 現在の制限事項(プロトタイプ版)
 
 ### 実装済み
-- ✅ カメラ撮影機能
+- ✅ カメラ撮影機能(Windows & iPhone対応)
 - ✅ 住所自動選択
 - ✅ 2秒カウントダウン自動進行
 - ✅ Googleマップ連携
+- ✅ Vercelへのデプロイ(HTTPS対応)
+- ✅ GitHubリポジトリ
 
 ### 未実装(モックデータ使用中)
 - ⚠️ 実際のGoogle Cloud Vision API統合
@@ -337,9 +347,10 @@ https://your-app.vercel.app
 - [ ] オフライン対応
 
 ### Phase 5: 本番デプロイ
-- [ ] Vercelへのデプロイ
-- [ ] HTTPS動作確認
-- [ ] 実機テスト(iOS/Android)
+- [x] Vercelへのデプロイ
+- [x] HTTPS動作確認
+- [x] 実機テスト(iOS/Android)
+- [x] GitHubリポジトリ作成
 
 ---
 
@@ -362,7 +373,7 @@ MIT License
 問題が発生した場合は、以下を確認してください:
 
 1. [トラブルシューティング](#-トラブルシューティング)
-2. [GitHub Issues](https://github.com/your-repo/issues)
+2. [GitHub Issues](https://github.com/ktomoyuki0227/delivery-assistant-pwa/issues)
 3. プロジェクトドキュメント
 
 ---
